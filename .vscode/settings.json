@@ -1,0 +1,21 @@
+{
+  "editor.wordWrap": "on",
+  "errorLens.gutterIconsEnabled": true,
+  "colorize.languages": ["typescript", "javascript", "css", "scss"],
+  "javascript.autoClosingTags": true,
+  "typescript.autoClosingTags": true,
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#270c46",
+    "titleBar.activeForeground": "#3af51d",
+    "titleBar.inactiveBackground": "#270c46",
+    "titleBar.inactiveForeground": "#3af51d",
+    "sash.hoverBorder": "#270c46"
+  },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "css.lint.unknownAtRules": "ignore",
+  "eslint.validate": ["javascript"],
+  "prettier.enable": false,
+  "cSpell.enabled": false
+}
