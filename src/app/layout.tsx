@@ -4,6 +4,7 @@ import './globals.css'
 import { ReactNode } from 'react'
 import { Header } from '@/components/header'
 import { Footer } from '@/components/footer'
+import { Disclaimer } from '@/components/disclaimer'
 
 const inter = Montserrat({ subsets: ['latin'] })
 
@@ -19,7 +20,8 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${inter.className} flex h-full min-h-screen flex-col bg-neutral-50 text-neutral-950`}>
+      <body className={`${inter.className} relative flex size-full min-h-screen flex-col bg-background text-text`}>
+        <Disclaimer />
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />

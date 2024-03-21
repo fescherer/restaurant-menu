@@ -5,7 +5,7 @@ const sections = PRODUCTS_DATA
 
 export function Content() {
   return (
-    <div className="space-y-6">
+    <div className="space-y-6 py-8">
       {
         sections.map(section => (
           <SectionProduct content={section} key={section.section} />

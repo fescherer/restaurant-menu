@@ -4,6 +4,6 @@ type SectionProductHeaderProps = {
 
 export function SectionProductHeader({ title }: SectionProductHeaderProps) {
   return (
-    <h2 className="border-b border-primary/20 font-bold">{title}</h2>
+    <h2 className="border-b border-secondary/20 font-bold">{title}</h2>
   )
 }

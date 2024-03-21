@@ -11,17 +11,17 @@ export function SectionProductContent({ products }: SectionProductContentProps) 
   })
 
   return (
-    <div className="divide-y divide-neutral-300">
+    <div className="divide-y divide-secondary/20">
       {products.map(product => (
         <div key={product.id} className="flex p-4">
-          <div className="h-20 w-16 bg-slate-700" />
+          <div className="h-20 w-16 bg-primary" />
 
           <div className="mx-4">
-            <h3 className="text-lg font-medium">{product.name}</h3>
-            <p className="text-neutral-700">{product.description}</p>
+            <h3 className="text-lg font-semibold">{product.name}</h3>
+            <p className="text-text/80">{product.description}</p>
           </div>
 
-          <p className="flex flex-1 justify-end font-medium">
+          <p className="flex flex-1 justify-end font-semibold">
             {real.format(product.price / 100)}
           </p>
         </div>

@@ -4,7 +4,7 @@ export function Footer() {
   const today = new Date()
 
   return (
-    <div className="bg-primary/20">
+    <div className="bg-text text-textOnPrimary">
       <footer className="m-auto flex flex-col items-center gap-2 p-6">
         <div>
           <small>
