@@ -14,7 +14,7 @@ export function SectionProductContent({ products }: SectionProductContentProps) 
     <div className="divide-y divide-secondary/20">
       {products.map(product => (
         <div key={product.id} className="flex p-4">
-          <div className="h-20 w-16 bg-primary" />
+          <div className="h-20 w-16 bg-secondary" />
 
           <div className="mx-4">
             <h3 className="text-lg font-semibold">{product.name}</h3>

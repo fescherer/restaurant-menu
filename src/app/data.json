@@ -1,0 +1,172 @@
+{
+  "client": "quiosque",
+  "menu": [
+    {
+      "section": "Novidades",
+      "products": [
+        {
+          "id": 50,
+          "name": "Pastel de caqui",
+          "price": 800,
+          "type": "food",
+          "description": "Água de coco gelada"
+        }
+      ]
+    },
+    {
+      "section": "Bebidas",
+      "products": [
+        {
+          "id": 1,
+          "name": "Coco",
+          "price": 800,
+          "type": "drink",
+          "description": "Água de coco gelada"
+        },
+        {
+          "id": 2,
+          "name": "Água",
+          "price": 300,
+          "type": "drink",
+          "description": "Garrafa de água sem gás"
+        },
+        {
+          "id": 3,
+          "name": "Água com gás",
+          "price": 400,
+          "type": "drink",
+          "description": "Garrafa de água com gás"
+        },
+        {
+          "id": 4,
+          "name": "Refrigerante lata",
+          "price": 600,
+          "type": "drink",
+          "description": "Coca cola, sprite, fanta laranja"
+        },
+        {
+          "id": 5,
+          "name": "Refrigerante 600mL",
+          "price": 800,
+          "type": "drink",
+          "description": "Refrigerante 600mL"
+        },
+        {
+          "id": 6,
+          "name": "Refrigerante 2L",
+          "price": 900,
+          "type": "drink",
+          "description": "Refrigerante 2L"
+        },
+        {
+          "id": 7,
+          "name": "H2O",
+          "price": 700,
+          "type": "drink",
+          "description": "H2O"
+        },
+        {
+          "id": 8,
+          "name": "Gatorade",
+          "price": 800,
+          "type": "drink",
+          "description": "Gatorade"
+        },
+        {
+          "id": 9,
+          "name": "Suco de laranja natural",
+          "price": 700,
+          "type": "drink",
+          "description": "Suco de laranja natural"
+        },
+        {
+          "id": 10,
+          "name": "Suco lata",
+          "price": 600,
+          "type": "drink",
+          "description": "Suco lata"
+        },
+        {
+          "id": 11,
+          "name": "Suco garrafa",
+          "price": 400,
+          "type": "drink",
+          "description": "Suco de garrafa"
+        },
+        {
+          "id": 19,
+          "name": "Café",
+          "price": 400,
+          "type": "drink",
+          "description": "Café"
+        },
+        {
+          "id": 20,
+          "name": "Suco de caixinha",
+          "price": 400,
+          "type": "drink",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "section": "Comidas",
+      "products": [
+        {
+          "id": 12,
+          "name": "Salgado Assado",
+          "price": 700,
+          "type": "food",
+          "description": "Calabresa, etc"
+        },
+        {
+          "id": 13,
+          "name": "Pão de queijo",
+          "price": 400,
+          "type": "food",
+          "description": "Pão de queijo"
+        },
+        {
+          "id": 14,
+          "name": "Salgado frito com massa de mandioca",
+          "price": 800,
+          "type": "food",
+          "description": "Salgado frito com massa de mandioca"
+        },
+        {
+          "id": 15,
+          "name": "Pastel",
+          "price": 1000,
+          "type": "food",
+          "description": "Calabresa com queijo, queijo, carne"
+        },
+        {
+          "id": 16,
+          "name": "Salgadinho fofura",
+          "price": 400,
+          "type": "food",
+          "description": "Salgadinho"
+        },
+        {
+          "id": 17,
+          "name": "Salgadinho polvilho",
+          "price": 500,
+          "type": "food",
+          "description": "Salgadinho polvilho"
+        }
+      ]
+    },
+    {
+      "section": "Sobremesas",
+      "products": [
+        {
+          "id": 18,
+          "name": "Açai",
+          "price": 1700,
+          "type": "dessert",
+          "description": "Banana, granola, leite em pó"
+        }
+      ]
+    }
+  ]
+}
