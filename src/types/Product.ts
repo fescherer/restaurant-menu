@@ -4,9 +4,10 @@ export type TSection = {
 }
 
 export type TProduct = {
-  id: number
+  id: string
   name: string
   description: string
   price: number
+  color: string
   image: string
 }
