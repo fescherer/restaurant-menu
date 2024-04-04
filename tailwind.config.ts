@@ -7,7 +7,7 @@ const config: Config = {
       primary: '#11671f',
       textOnPrimary: '#ffffff',
       secondary: '#0B1C31',
-      background: '#FAFEFF',
+      background: '#f6f6f6',
       accent: '#3d9bf9',
       text: '#061323',
 
@@ -23,6 +23,9 @@ const config: Config = {
       },
 
       transparent: 'transparent',
+    },
+    fontFamily: {
+      balsamiq: ['Balsamiq Sans', 'sans-serif'],
     },
     // #f0f1f0
   },
