@@ -11,7 +11,7 @@ export function SectionProduct({ content }: SectionProductProps) {
   if (!content.products.length) return <></>
 
   return (
-    <section className="m-auto max-w-4xl p-4" id={content.section}>
+    <section className="m-auto max-w-4xl p-4" id={content.id}>
       <SectionProductHeader title={content.section} />
       <SectionProductContent products={content.products} isNew={content.section === '🌟 Novidades'} />
     </section>

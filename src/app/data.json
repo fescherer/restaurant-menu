@@ -2,6 +2,7 @@
   "client": "quiosque",
   "menu": [
     {
+      "id": "new",
       "section": "🌟 Novidades",
       "products": [
         {
@@ -23,6 +24,7 @@
       ]
     },
     {
+      "id": "drinks",
       "section": "Bebidas",
       "products": [
         {
@@ -132,6 +134,7 @@
       ]
     },
     {
+      "id": "foods",
       "section": "Comidas",
       "products": [
         {
@@ -185,6 +188,7 @@
       ]
     },
     {
+      "id": "dessert",
       "section": "Sobremesas",
       "products": [
         {

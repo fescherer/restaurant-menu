@@ -30,7 +30,7 @@ export function Content({ data }: ContentProps) {
 
       <div className="m-auto flex max-w-4xl flex-wrap gap-2">
         {data.menu.map(section => (
-          <Link className="rounded-full border border-text/20 px-4 py-2 text-sm font-medium text-text/60 shadow-sm transition-all hover:border-primary hover:text-primary" href={`#${section.section}`} key={section.section}>{section.section}</Link>
+          <Link className="rounded-full border border-text/20 px-4 py-2 text-sm font-medium text-text/60 shadow-sm transition-all hover:border-primary hover:text-primary" href={`#${section.id}`} key={section.section}>{section.section}</Link>
         ))}
       </div>
 

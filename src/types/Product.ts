@@ -1,4 +1,5 @@
 export type TSection = {
+  id: string
   section: string
   products: TProduct[]
 }
