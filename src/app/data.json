@@ -7,10 +7,18 @@
         {
           "id": "pastel-de-caqui",
           "name": "Pastel de caqui",
-          "price": 800,
+          "price": 1300,
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Água de coco gelada"
+          "description": "O delicioso pastel de caqui do Quiosque."
+        },
+        {
+          "id": "coxinha-de-caqui",
+          "name": "Coxinha de caqui",
+          "price": 1000,
+          "type": "food",
+          "color": "hsl(14, 86%, 64%, 0.2)",
+          "description": "A deliciosa coxinha de caqui de Itatiba."
         }
       ]
     },
@@ -20,10 +28,10 @@
         {
           "id": "coco",
           "name": "Coco",
-          "price": 800,
+          "price": 900,
           "type": "drink",
           "color": "hsl(188, 49%, 75%, 0.2)",
-          "description": "Água de coco gelada"
+          "description": "Água de coco na fruta."
         },
         {
           "id": "agua",
@@ -31,7 +39,7 @@
           "price": 300,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Garrafa de água sem gás"
+          "description": "Garrafa de água sem gás."
         },
         {
           "id": "agua-com-gas",
@@ -39,7 +47,7 @@
           "price": 400,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Garrafa de água com gás"
+          "description": "Garrafa de água com gás."
         },
         {
           "id": "refrigerante-lata",
@@ -47,7 +55,7 @@
           "price": 600,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Coca cola, sprite, fanta laranja"
+          "description": "Opções: Coca-Cola; Sprite; Fanta; Guaraná."
         },
         {
           "id": "refrigerante-600ml",
@@ -55,7 +63,7 @@
           "price": 800,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Refrigerante 600mL"
+          "description": "Refrigerante 600mL."
         },
         {
           "id": "refrigerante-2l",
@@ -63,7 +71,7 @@
           "price": 900,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Refrigerante 2L"
+          "description": "Refrigerante 2L."
         },
         {
           "id": "h2o",
@@ -71,23 +79,23 @@
           "price": 700,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "H2O"
+          "description": "H2O."
         },
         {
           "id": "gatorade",
           "name": "Gatorade",
-          "price": 800,
+          "price": 900,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Gatorade"
+          "description": "Gatorade."
         },
         {
           "id": "suco-de-laranja-natural",
           "name": "Suco de laranja natural",
-          "price": 700,
+          "price": 800,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Suco de laranja natural"
+          "description": "Suco de laranja natural com gelo e açucar."
         },
         {
           "id": "suco-lata",
@@ -95,7 +103,7 @@
           "price": 600,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Suco lata"
+          "description": "Suco lata Del Valle."
         },
         {
           "id": "suco-garrafa",
@@ -103,7 +111,7 @@
           "price": 400,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Suco de garrafa"
+          "description": "Suco de garrafa."
         },
         {
           "id": "cafe",
@@ -111,15 +119,15 @@
           "price": 400,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Café"
+          "description": "Café."
         },
         {
           "id": "suco-caixinha",
           "name": "Suco de caixinha",
-          "price": 400,
+          "price": 500,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": ""
+          "description": "Suco de caixinha pequeno."
         }
       ]
     },
@@ -129,10 +137,10 @@
         {
           "id": "salgado-assado",
           "name": "Salgado Assado",
-          "price": 700,
+          "price": 800,
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Calabresa, etc"
+          "description": "Opções: Calabresa com queijo; carne moída; frango com catupiry; Hamburgão (Hamburguer e queijo)."
         },
         {
           "id": "pao-de-queijo",
@@ -140,7 +148,7 @@
           "price": 400,
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Pão de queijo"
+          "description": "Pão de queijo."
         },
         {
           "id": "salgado-frito-com-massa-de-mandioca",
@@ -148,7 +156,7 @@
           "price": 800,
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Salgado frito com massa de mandioca"
+          "description": "Opções: Coxinha de frango; Coxinha de frango com catupiry; Coxinha de queijo; Coxinha de brócolis com queijo; Empada de carne moída; Salgado de presunto e queijo; Coxinha de carne seca."
         },
         {
           "id": "pastel",
@@ -156,7 +164,7 @@
           "price": 1000,
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Calabresa com queijo, queijo, carne"
+          "description": "Opções: Queijo; Carne; Calabresa com queijo; Frango com catupiry."
         },
         {
           "id": "salgado-fofura",
@@ -164,7 +172,7 @@
           "price": 400,
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Salgadinho"
+          "description": "Salgadinho de pacote."
         },
         {
           "id": "salgadinho-polvilho",
@@ -172,7 +180,7 @@
           "price": 500,
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Salgadinho polvilho"
+          "description": "Salgadinho polvilho."
         }
       ]
     },
@@ -182,10 +190,10 @@
         {
           "id": "acai",
           "name": "Açai",
-          "price": 1700,
+          "price": 1800,
           "type": "dessert",
           "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "Banana, granola, leite em pó"
+          "description": "Açai na tijela com banana, granola, leite condensado e leite em pó."
         }
       ]
     }
