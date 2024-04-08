@@ -23,7 +23,7 @@ export function Footer() {
 
         <small className="flex">
           <p>Desenvolvido e mantido por</p>
-          <Link className="link ml-1" target="_blank" href="https://felipescherer.com">Felipe Scherer</Link>
+          <Link className="link ml-1" target="_blank" href="https://felipescherer.com">Felipe Scherer </Link>
         </small>
       </footer>
     </div>
