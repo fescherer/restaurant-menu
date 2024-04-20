@@ -3,7 +3,7 @@
   "menu": [
     {
       "id": "new",
-      "section": "🌟 Novidades",
+      "section": "Novidades",
       "products": [
         {
           "id": "pastel-de-caqui",
@@ -16,7 +16,7 @@
         {
           "id": "coxinha-de-caqui",
           "name": "Coxinha de caqui",
-          "price": 1000,
+          "price": 800,
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "A deliciosa coxinha de caqui de Itatiba."

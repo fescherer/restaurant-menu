@@ -7,7 +7,7 @@ const config: Config = {
       primary: '#11671f',
       textOnPrimary: '#ffffff',
       secondary: '#0B1C31',
-      background: '#f6f6f6',
+      background: '#FFFFFF',
       accent: '#3d9bf9',
       text: '#061323',
 

@@ -1,5 +1,5 @@
 export type TSection = {
-  id: string
+  id: 'new' | 'foods' | 'drinks' | 'dessert'
   section: string
   products: TProduct[]
 }
