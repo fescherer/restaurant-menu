@@ -29,7 +29,7 @@ export function Content({ data }: ContentProps) {
     <div className="m-auto max-w-4xl space-y-6 py-8 ">
       <input value={search} onChange={e => setSearch(e.target.value)} className="flex w-full rounded border border-secondary/20 px-4 py-2 shadow-sm" placeholder="Pesquise..." />
 
-      <div className="flex flex-wrap justify-center gap-2">
+      <div className="grid grid-cols-2 justify-center gap-2 lg:grid-cols-4">
         {data.menu.map(section => (
           <LinkSection key={section.section} section={section} />
         ))}
