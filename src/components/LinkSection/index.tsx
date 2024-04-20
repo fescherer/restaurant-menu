@@ -8,7 +8,7 @@ type LinkSectionProps = {
 
 export function LinkSection({ section }: LinkSectionProps) {
   return (
-    <div className="flex min-h-32 w-[24%] gap-2 overflow-hidden rounded">
+    <div className="flex min-h-32 w-[24%] min-w-[200px] gap-2 overflow-hidden rounded">
       <Link className="w-full bg-center text-xl font-medium text-text/60 shadow-sm transition-all hover:scale-110" style={{ backgroundImage: `url(/pin/${section.id}.png)` }} href={`#${section.id}`}>
         <div className="m-auto flex size-full items-center justify-center gap-2 bg-[#464646bb] px-4 py-2 text-textOnPrimary">
           <span>{sectionIcons[section.id]}</span>

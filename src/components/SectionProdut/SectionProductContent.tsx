@@ -15,7 +15,7 @@ export function SectionProductContent({ products, isNew }: SectionProductContent
   return (
     <div className="my-2 flex flex-col gap-2">
       {products.map(product => (
-        <div key={product.id} className="relative flex flex-col items-start rounded bg-foreground p-4">
+        <div key={product.id} className="flex flex-col items-start rounded bg-foreground p-4">
 
           <div className="my-2 flex w-full items-center">
             <div className="flex gap-2">

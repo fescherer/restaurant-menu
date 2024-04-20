@@ -26,10 +26,10 @@ export function Content({ data }: ContentProps) {
     : data.menu
 
   return (
-    <div className="m-auto max-w-4xl space-y-6 py-8">
-      <input value={search} onChange={e => setSearch(e.target.value)} className=" flex w-full  rounded border border-secondary/20 px-4 py-2 shadow-sm" placeholder="Pesquise..." />
+    <div className="m-auto max-w-4xl space-y-6 py-8 ">
+      <input value={search} onChange={e => setSearch(e.target.value)} className="flex w-full rounded border border-secondary/20 px-4 py-2 shadow-sm" placeholder="Pesquise..." />
 
-      <div className="flex flex-wrap gap-2">
+      <div className="flex flex-wrap justify-center gap-2">
         {data.menu.map(section => (
           <LinkSection key={section.section} section={section} />
         ))}
@@ -48,13 +48,11 @@ export function Content({ data }: ContentProps) {
         </div>
       </div>
 
-      <div className="">
-        {
-          filteredData.map(section => (
-            <SectionProduct content={section} key={section.section} />
-          ))
-        }
-      </div>
+      {
+        filteredData.map(section => (
+          <SectionProduct content={section} key={section.section} />
+        ))
+      }
 
       <ScrollToTop />
     </div>

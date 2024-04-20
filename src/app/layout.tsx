@@ -23,7 +23,7 @@ export default function RootLayout({
       <body className={`${inter.className} relative flex size-full min-h-screen flex-col bg-background text-text`}>
         <Disclaimer />
         <Header />
-        <main className="flex-1">{children}</main>
+        <main className="mx-2 flex-1">{children}</main>
         <Footer />
       </body>
     </html>
