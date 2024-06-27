@@ -12,14 +12,6 @@
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "O delicioso pastel de caqui do Quiosque."
-        },
-        {
-          "id": "coxinha-de-caqui",
-          "name": "Coxinha de caqui",
-          "price": 800,
-          "type": "food",
-          "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "A deliciosa coxinha de caqui de Itatiba."
         }
       ]
     },
@@ -38,7 +30,7 @@
         {
           "id": "agua",
           "name": "Água",
-          "price": 300,
+          "price": 400,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "Garrafa de água sem gás."
@@ -54,7 +46,7 @@
         {
           "id": "refrigerante-lata",
           "name": "Refrigerante lata",
-          "price": 600,
+          "price": 700,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "Opções: Coca-Cola; Sprite; Fanta; Guaraná."
@@ -78,7 +70,7 @@
         {
           "id": "h2o",
           "name": "H2O",
-          "price": 700,
+          "price": 800,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "H2O."
@@ -102,7 +94,7 @@
         {
           "id": "suco-lata",
           "name": "Suco lata",
-          "price": 600,
+          "price": 700,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "Suco lata Del Valle."
@@ -110,7 +102,7 @@
         {
           "id": "suco-garrafa",
           "name": "Suco garrafa",
-          "price": 400,
+          "price": 500,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "Suco de garrafa."
@@ -140,7 +132,7 @@
         {
           "id": "salgado-assado",
           "name": "Salgado Assado",
-          "price": 800,
+          "price": 850,
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "Opções: Calabresa com queijo; carne moída; frango com catupiry; Hamburgão (Hamburguer e queijo)."
@@ -156,7 +148,7 @@
         {
           "id": "salgado-frito-com-massa-de-mandioca",
           "name": "Salgado frito com massa de mandioca",
-          "price": 800,
+          "price": 850,
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "Opções: Coxinha de frango; Coxinha de frango com catupiry; Coxinha de queijo; Coxinha de brócolis com queijo; Empada de carne moída; Salgado de presunto e queijo; Coxinha de carne seca."
@@ -164,7 +156,7 @@
         {
           "id": "pastel",
           "name": "Pastel",
-          "price": 1000,
+          "price": 1100,
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "Opções: Queijo; Carne; Calabresa com queijo; Frango com catupiry."
@@ -194,7 +186,7 @@
         {
           "id": "acai",
           "name": "Açai",
-          "price": 1800,
+          "price": 2000,
           "type": "dessert",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "Açai na tijela com banana, granola, leite condensado e leite em pó."
