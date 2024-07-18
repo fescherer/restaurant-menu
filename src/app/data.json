@@ -134,7 +134,7 @@
         {
           "id": "salgado-frito-com-massa-de-mandioca",
           "name": "Salgado frito com massa de mandioca",
-          "price": 850,
+          "price": 800,
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "Opções: Coxinha de frango; Coxinha de frango com catupiry; Coxinha de queijo; Coxinha de brócolis com queijo; Empada de carne moída; Salgado de presunto e queijo; Coxinha de carne seca."
