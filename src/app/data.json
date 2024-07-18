@@ -2,20 +2,6 @@
   "client": "quiosque",
   "menu": [
     {
-      "id": "new",
-      "section": "Novidades",
-      "products": [
-        {
-          "id": "pastel-de-caqui",
-          "name": "Pastel de caqui",
-          "price": 1300,
-          "type": "food",
-          "color": "hsl(14, 86%, 64%, 0.2)",
-          "description": "O delicioso pastel de caqui do Quiosque."
-        }
-      ]
-    },
-    {
       "id": "drinks",
       "section": "Bebidas",
       "products": [
@@ -132,7 +118,7 @@
         {
           "id": "salgado-assado",
           "name": "Salgado Assado",
-          "price": 850,
+          "price": 800,
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "Opções: Calabresa com queijo; carne moída; frango com catupiry; Hamburgão (Hamburguer e queijo)."
@@ -140,7 +126,7 @@
         {
           "id": "pao-de-queijo",
           "name": "Pão de queijo",
-          "price": 400,
+          "price": 500,
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "Pão de queijo."
@@ -156,7 +142,7 @@
         {
           "id": "pastel",
           "name": "Pastel",
-          "price": 1100,
+          "price": 1000,
           "type": "food",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "Opções: Queijo; Carne; Calabresa com queijo; Frango com catupiry."
