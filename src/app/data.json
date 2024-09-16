@@ -8,7 +8,7 @@
         {
           "id": "coco",
           "name": "Coco",
-          "price": 900,
+          "price": 1000,
           "type": "drink",
           "color": "hsl(188, 49%, 75%, 0.2)",
           "description": "Água de coco na fruta."
