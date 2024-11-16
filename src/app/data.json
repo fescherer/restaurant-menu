@@ -72,7 +72,7 @@
         {
           "id": "suco-de-laranja-natural",
           "name": "Suco de laranja natural",
-          "price": 800,
+          "price": 900,
           "type": "drink",
           "color": "hsl(14, 86%, 64%, 0.2)",
           "description": "Suco de laranja natural com gelo e açucar."
